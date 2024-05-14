@@ -1,0 +1,312 @@
+[
+  {
+    "user_id": 1,
+    "username": "john_doe",
+    "full_name": "John Doe",
+    "email": "john@example.com",
+    "phone_number": 123456789,
+    "address": "123 Main St, City, Country",
+    "password": "password123",
+    "is_admin": "false"
+  },
+  {
+    "user_id": 2,
+    "username": "jane_smith",
+    "full_name": "Jane Smith",
+    "email": "jane@example.com",
+    "phone_number": 987654321,
+    "address": "456 Elm St, City, Country",
+    "password": "password456",
+    "is_admin": "false"
+  },
+  {
+    "user_id": 3,
+    "username": "admin_user",
+    "full_name": "Admin User",
+    "email": "admin@example.com",
+    "phone_number": 123454321,
+    "address": "456 Maple St, City, Country",
+    "password": "adminpassword",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 4,
+    "username": "teste",
+    "full_name": "teste",
+    "email": "teste",
+    "phone_number": 123123123,
+    "address": "teste",
+    "password": "teste",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 5,
+    "username": "La",
+    "full_name": "La Ala",
+    "email": "la@la.com",
+    "phone_number": 22255555,
+    "address": "Rua mane",
+    "password": "P3@rldrum1985",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 7,
+    "username": "d",
+    "full_name": "d",
+    "email": "d@d.com",
+    "phone_number": 2225555,
+    "address": "d",
+    "password": "d",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 8,
+    "username": "Daniel",
+    "full_name": "Daniel Pereira",
+    "email": "user@user.com",
+    "phone_number": 4294967295,
+    "address": "Rua",
+    "password": "123",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 9,
+    "username": "dione",
+    "full_name": "dione",
+    "email": "dione@dione.com",
+    "phone_number": 0,
+    "address": "rua dione",
+    "password": "dione",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 11,
+    "username": "dione2",
+    "full_name": "dione",
+    "email": "dione",
+    "phone_number": 123433,
+    "address": "string",
+    "password": "string",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 12,
+    "username": "teste0404",
+    "full_name": "teste0404",
+    "email": "teste0404",
+    "phone_number": 12111222,
+    "address": "teste0404",
+    "password": "teste0404",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 14,
+    "username": "hjhj",
+    "full_name": "hjhj",
+    "email": "fdssdf@gmail.com",
+    "phone_number": 65354,
+    "address": "dsffds",
+    "password": "12345leoL#",
+    "is_admin": "false"
+  },
+  {
+    "user_id": 15,
+    "username": "pedrito_pedro",
+    "full_name": "pedro sanchez",
+    "email": "pedrito@gmail.com",
+    "phone_number": 1234567890,
+    "address": "aveiro",
+    "password": "12345leoL#",
+    "is_admin": "false"
+  },
+  {
+    "user_id": 24,
+    "username": "string",
+    "full_name": "string",
+    "email": "string",
+    "phone_number": 22251111,
+    "address": "string",
+    "password": "string",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 30,
+    "username": "Nuno",
+    "full_name": "Nuno Nené Nenão",
+    "email": "nuno@gmail.com",
+    "phone_number": 921225221,
+    "address": "Rua Campela Grande 128",
+    "password": "123456",
+    "is_admin": "false"
+  },
+  {
+    "user_id": 31,
+    "username": "Leo",
+    "full_name": "Leo Munos",
+    "email": "test@test.test",
+    "phone_number": 123456,
+    "address": "Rua Aires",
+    "password": "12345",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 32,
+    "username": "Barriga",
+    "full_name": "Barriga Seca",
+    "email": "barrigaseca@gmail.com",
+    "phone_number": 954555555,
+    "address": "Rua caramelo 145",
+    "password": "123",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 33,
+    "username": "Sebas",
+    "full_name": "Sebas",
+    "email": "Sebas",
+    "phone_number": 121434,
+    "address": "Sebas",
+    "password": "12345",
+    "is_admin": "false"
+  },
+  {
+    "user_id": 34,
+    "username": "Sebas",
+    "full_name": "Sebas ",
+    "email": "teste@teste.com",
+    "phone_number": 123124,
+    "address": "Porto",
+    "password": "1234567A@",
+    "is_admin": "false"
+  },
+  {
+    "user_id": 35,
+    "username": "Tiago",
+    "full_name": "Tiago",
+    "email": "tiago",
+    "phone_number": 919999,
+    "address": "Tiago",
+    "password": "tiago",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 40,
+    "username": "Dione",
+    "full_name": "Dione",
+    "email": "a@gmail.com",
+    "phone_number": 987878999,
+    "address": "Travessa Sampaolo, 25",
+    "password": "123456",
+    "is_admin": ""
+  },
+  {
+    "user_id": 41,
+    "username": "Dione",
+    "full_name": "Dione",
+    "email": "dione@gmail.com",
+    "phone_number": 989656555,
+    "address": "Rua morada",
+    "password": "123456",
+    "is_admin": ""
+  },
+  {
+    "user_id": 62,
+    "username": "Iron",
+    "full_name": "Iron Man",
+    "email": "ironman@gmail.com",
+    "phone_number": 989987845,
+    "address": "Rua Marvel 165",
+    "password": "123",
+    "is_admin": "false"
+  },
+  {
+    "user_id": 63,
+    "username": "Palmeiras",
+    "full_name": "Palmeiras FC",
+    "email": "palmeiras@palmeiras.com",
+    "phone_number": 854666221,
+    "address": "Rua Allianz 145",
+    "password": "123",
+    "is_admin": ""
+  },
+  {
+    "user_id": 112,
+    "username": "Joana",
+    "full_name": "jana",
+    "email": "joana@gmail.com",
+    "phone_number": 321654987,
+    "address": "Rua Marvel",
+    "password": "321",
+    "is_admin": ""
+  },
+  {
+    "user_id": 113,
+    "username": "Nana",
+    "full_name": "Nananana",
+    "email": "nanana@hotmail.com",
+    "phone_number": 654321987,
+    "address": "Rua Nana",
+    "password": "321",
+    "is_admin": ""
+  },
+  {
+    "user_id": 114,
+    "username": "Leandro",
+    "full_name": "LeandroJJ",
+    "email": "leandro@gmail.com",
+    "phone_number": 987987987,
+    "address": "Rua Zé",
+    "password": "987",
+    "is_admin": ""
+  },
+  {
+    "user_id": 115,
+    "username": "Jao",
+    "full_name": "JaoJao",
+    "email": "jaojao@icloud.com",
+    "phone_number": 654654654,
+    "address": "Ruaja",
+    "password": "321",
+    "is_admin": "false"
+  },
+  {
+    "user_id": 132,
+    "username": "Porto",
+    "full_name": "PortoFC",
+    "email": "porto@porto.com",
+    "phone_number": 989898989,
+    "address": "000000000",
+    "password": "123",
+    "is_admin": "false"
+  },
+  {
+    "user_id": 138,
+    "username": "Portoo",
+    "full_name": "PortooFC",
+    "email": "portoo@porto.com",
+    "phone_number": 987987888,
+    "address": "Rua Estádio",
+    "password": "654",
+    "is_admin": "true"
+  },
+  {
+    "user_id": 155,
+    "username": "Test",
+    "full_name": "Teste",
+    "email": "ejemplo@correo.com",
+    "phone_number": 1213214,
+    "address": "Porto",
+    "password": "Abcd123@",
+    "is_admin": "false"
+  },
+  {
+    "user_id": 167,
+    "username": "Porto",
+    "full_name": "PortoFCu",
+    "email": "portou@porto.com",
+    "phone_number": 545544567,
+    "address": "Rua Estádio",
+    "password": "123",
+    "is_admin": "false"
+  }
+]

@@ -1,0 +1,56 @@
+[
+    {
+      "product_id": 1,
+      "name": "Smartphone",
+      "price": 1254,
+      "photo_link": "https://img.fruugo.com/product/2/26/391720262_max.jpg"
+    },
+    {
+      "product_id": 2,
+      "name": "Laptop",
+      "price": 565,
+      "photo_link": "https://www.notebookcheck.info/uploads/tx_nbc2/MicrosoftSurfaceLaptop3-15__1_.JPG"
+    },
+    {
+      "product_id": 3,
+      "name": "Headphones",
+      "price": 99,
+      "photo_link": "https://www.sennheiser.com/globalassets/digizuite/45735-en-hd_490_pro_product_shot_in_use_axis_audio_69.jpg/SennheiserHighlight"
+    },
+    {
+      "product_id": 4,
+      "name": "Tablet",
+      "price": 499,
+      "photo_link": "https://p2-ofp.static.pub/fes/cms/2023/02/22/pkhjbh23c7sjfxf76k6e6usevy3ixi851221.png"
+    },
+    {
+      "product_id": 5,
+      "name": "Smartwatch",
+      "price": 299,
+      "photo_link": "https://www.worten.pt/i/f54685c181ddb003eb324d4c4645df3a1159a49b.jpg"
+    },
+    {
+      "product_id": 6,
+      "name": "Wireless Mouse",
+      "price": 59,
+      "photo_link": "https://image.made-in-china.com/202f0j00tbphdmSqpZcJ/Wireless-Mouse-Bluetooth-RGB-Rechargeable-Mouse-Wireless-Computer-Silent-Mause-LED-Backlit-Ergonomic-Gaming-Mouse-for-Laptop-PC.webp"
+    },
+    {
+      "product_id": 9,
+      "name": "Biberão bip",
+      "price": 852,
+      "photo_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPRdOcRxa84-xecImWLOyUKHumjEhKHJgJ-6_fIMzoNg&s"
+    },
+    {
+      "product_id": 21,
+      "name": "Robô Aspirador",
+      "price": 570,
+      "photo_link": "https://electrolux.vtexassets.com/arquivos/ids/218367/Robot_Vacuum_ERB20_Perspective_Electrolux_1000x1000-principal.jpg?v=637826174421270000"
+    },
+    {
+      "product_id": 22,
+      "name": "Smartphone tiago",
+      "price": 501,
+      "photo_link": "https://www.audilo.pt/12743-large_default/smartphone-para-idosos-resistente-mx1-premium-da-beafon.jpg"
+    }
+  ]

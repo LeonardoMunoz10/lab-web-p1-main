@@ -1,0 +1,347 @@
+/* Marketplace.css */
+
+/* Estilos generales */
+
+@import url(https://fonts.googleapis.com/css2?family=Pacifico&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Acme&display=swap);
+
+.marketplace {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #444;
+} 
+
+.logoprincipal{
+ padding-top: 1rem;
+width: 300px; 
+ display: flex;
+  justify-content: flex-end;
+  align-items: center;
+/* padding-right: 35rem; */
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 0px 0;
+  padding-bottom: 0px;
+  font-family: "Acme", sans-serif;
+}
+
+.headertop{
+  background-color: gray;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin: 0px;
+}
+
+header h1 {
+  margin: 0;
+} 
+
+.tituloinicial{
+  padding-top: 0px;
+}
+
+.header-buttons {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+}
+
+
+.header-buttons button {
+  background-image: linear-gradient(to right, #16222A 0%, #3A6073  51%, #16222A  100%);
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 10px black;
+  border-radius: 10px;
+  display: block;
+  margin-bottom: 5px;
+  font-family: "Acme", sans-serif;
+}
+
+.header-buttons button:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+.search-bar {
+  margin-top: 10px;
+}
+
+.search-bar input[type="text"] {
+  padding: 10px;
+  width: 200px;
+  margin-right: 10px;
+  border: 2px solid #16222A;
+  border-radius: 5px;
+}
+
+.search-bar button {
+  background-image: linear-gradient(to right, #16222A 0%, #3A6073  51%, #16222A  100%);
+  border: none;
+  padding: 12px 24px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+}
+
+.search-bar button:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+
+.categories {
+  margin-bottom: 20px;
+  font-family: "Acme", sans-serif;
+}
+
+.categories button {
+  background-image: linear-gradient(to right, #16222A 0%, #3A6073  51%, #16222A  100%);
+  border: none;
+  margin: 5px;
+  padding: 12px 24px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  font-family: "Acme", sans-serif;
+}
+
+.categories button:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+.featured-products {
+  display: flex;
+  flex-wrap: wrap; 
+
+  
+}
+
+
+
+footer {
+  background-color: #444;
+  color: #fff;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+}
+
+/* Estilos para el modal */
+.modal {
+  display: block;
+  position: fixed;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  overflow: auto;
+}
+
+.modal-content {
+  background-color: #f5f5f5;
+  margin: 10% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  max-width: 600px;
+  position: relative;
+  border-radius: 10px;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Estilos para el formulario de registro */
+.register-form {
+  max-width: 370px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #16222A;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  font-family: "Acme", sans-serif;
+}
+
+.register-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: "Acme", sans-serif;
+}
+
+.register-form label {
+  color: #444;
+  font-size: 16px;
+  font-family: "Acme", sans-serif;
+}
+
+.register-form input {
+  width: calc(100% - 20px);
+  height: 40px;
+  border-radius: 5px;
+  border: 2px solid #16222A;
+  font-family: "Acme", sans-serif;
+  background: transparent;
+  color: #444;
+  padding: 0 10px;
+  margin-bottom: 10px;
+}
+
+.register-form button {
+  width: 100%;
+  padding: 12px 24px;
+  background-color: #16222A;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-family: "Acme", sans-serif;
+}
+
+
+
+.register-form .error-message {
+  color: red;
+  margin-bottom: 15px;
+  font-family: "Acme", sans-serif;
+}
+
+
+/*productos individuales*/
+
+.productosindivi{
+  max-width: 100%;
+  height: 350px;
+  display: block;
+  margin-top: 0%;
+  margin-left: 15px;
+  width: 350px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.nombreproducto{
+text-align: center;
+background-color: #16222A;
+color: white;
+margin-top: 10px;
+margin-bottom: 0%;
+margin-left: 15px;
+padding: 7px;
+box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+font-family: "Acme", sans-serif;
+font-size: 20px;
+border-radius: 5px;
+}
+
+.precioproducto {
+  text-align: center;
+  background-color: #16222A; 
+  color: white;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  margin-left: 15px;
+  padding: 7px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  font-family: "Acme", sans-serif;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+
+.decorativo{
+  display: flex;
+  flex-wrap: wrap;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+
+         
+.botonbuy {
+  background-image: linear-gradient(to right, #16222A 0%, #3A6073  51%, #16222A  100%);
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+  margin-left: 130px;
+  margin-bottom: 5px;
+  font-family: "Acme", sans-serif;
+}
+
+.botonbuy:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+ 
+
+.iniciadomsg{
+  color: #444;
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  font-weight: 400rem;
+  font-style: normal;
+  font-size: xx-large;
+  padding-top: 7rem;
+  padding-bottom: 0rem;
+  margin-bottom: 0rem;
+} 
+
+.inciado2{
+  color: #444;
+  text-align: center;
+  font-family: "Acme", sans-serif;
+  font-weight: 400rem;
+  font-style: normal;
+  font-size: 3rem;
+  padding-top: 0rem;
+  margin-top: 0rem;
+}
